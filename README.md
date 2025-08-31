@@ -7,9 +7,14 @@ https://drive.google.com/file/d/1dSXJfwGpDSJ59ry9KAp8SugQLK35V83f/view?usp=shari
 ## (II) Trained models
 https://github.com/zabihis/EDEN/tree/master/models
 
-## (III)CLSM6A _sequences_prediction.py
-It is the Python file for the implementation of EDEN.
+## (III)EDEN_v7_4_encoder_model_training_prediction.ipynb
+It is the Python notebook for the implementation of EDEN.
+It can be run directly on Google Colab.
 
 ## (IV) Contact
 If you are interested in our work or have any suggestions and questions about our research work, please feel free to contact us. E-mail: 
-yingzhang@njust.edu.cn.
+szabihi@hotmail.com.
+
+## (V) Referencing us
+cite our work using:
+
