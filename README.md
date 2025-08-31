@@ -1,5 +1,5 @@
 # EDEN
-source code and details about implementation and datasets for EDEN framework
+Source code and details about implementation and datasets for EDEN framework
 
 ## (I) Datasets
 https://github.com/zabihis/EDEN/tree/main/datasets
