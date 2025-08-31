@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1dSXJfwGpDSJ59ry9KAp8SugQLK35V83f/view?usp=shari
 ## (II) Trained models
 https://github.com/zabihis/EDEN/tree/master/models
 
-## (III)EDEN_v7_4_encoder_model_training_prediction.ipynb
+## (III) EDEN_v7_4_encoder_model_prediction.ipynb
 It is the Python notebook for the implementation of EDEN.
 It can be run directly on Google Colab.
 
