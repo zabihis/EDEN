@@ -2,8 +2,9 @@
 Source code and details about implementation and datasets for EDEN framework
 
 ## (I) Datasets
-https://github.com/zabihis/EDEN/tree/main/datasets
-https://drive.google.com/file/d/1dSXJfwGpDSJ59ry9KAp8SugQLK35V83f/view?usp=sharing.
+Used datasets can be downloaded from two sources:
+- from github: https://github.com/zabihis/EDEN/tree/main/datasets
+- from gdrive: https://drive.google.com/file/d/1dSXJfwGpDSJ59ry9KAp8SugQLK35V83f/view?usp=sharing.
 
 ## (II) Trained models
 https://github.com/zabihis/EDEN/tree/main/models
