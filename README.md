@@ -6,7 +6,7 @@ https://github.com/zabihis/EDEN/tree/main/datasets
 https://drive.google.com/file/d/1dSXJfwGpDSJ59ry9KAp8SugQLK35V83f/view?usp=sharing.
 
 ## (II) Trained models
-https://github.com/zabihis/EDEN/tree/master/models
+https://github.com/zabihis/EDEN/tree/main/models
 
 ## (III) EDEN_v7_4_encoder_model_prediction.ipynb
 It is the Python notebook for the implementation of EDEN.
@@ -17,5 +17,5 @@ If you are interested in our work or have any suggestions and questions about ou
 szabihi@hotmail.com.
 
 ## (V) Referencing us
-cite our work using:
+Cite our work using:
 
