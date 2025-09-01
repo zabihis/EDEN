@@ -6,10 +6,10 @@ Used datasets can be downloaded from two sources:
 - from github: https://github.com/zabihis/EDEN/tree/main/datasets
 - from gdrive: https://drive.google.com/file/d/1dSXJfwGpDSJ59ry9KAp8SugQLK35V83f/view?usp=sharing.
 
-* NOTE: To ensure the reproducibility of the evaluation results, please select the "seqLenLimit" parameter according to the following table:
+** NOTE: To ensure the reproducibility of the evaluation results, please select the "seqLenLimit" parameter for each dataset according to the following table:
 
-| Datasets     | seqLenLimit
-| ------------ | ------------ |
+| dataset_name     | seqLenLimit
+| ------------ | :------------: |
 | human_prom_core | 70 |
 | human_prom_300 | 300 |
 | human_tf0-4 | 100 | 
