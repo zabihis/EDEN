@@ -6,7 +6,7 @@ Used datasets can be downloaded from two sources:
 - from github: https://github.com/zabihis/EDEN/tree/main/datasets
 - from gdrive: https://drive.google.com/file/d/1dSXJfwGpDSJ59ry9KAp8SugQLK35V83f/view?usp=sharing.
 
-** NOTE: To ensure the reproducibility of the evaluation results, please select the "seqLenLimit" parameter for each dataset according to the following table:
+** NOTE: To ensure the reproducibility of the evaluation results, please set the "seqLenLimit" parameter for each dataset according to the following table:
 
 | dataset_name     | seqLenLimit
 | ------------ | :------------: |
