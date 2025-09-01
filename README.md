@@ -17,7 +17,8 @@ Used datasets can be downloaded from two sources:
 
 
 
-## (II) Trained models
+## (II) Pretrained models
+The pretrained model weights for each dataset are available at the following location:
 https://github.com/zabihis/EDEN/tree/main/models
 
 ## (III) EDEN_v7_4_encoder_model_prediction.ipynb
