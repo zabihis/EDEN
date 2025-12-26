@@ -66,9 +66,9 @@ python predict.py --dataset human_tf0 --limit 100
 
 ---
 
-## 📊 Reproducibility Table
+## 📊 CLI Parameters Table
 
-To ensure results match the reported metrics in the paper, use the following `seqLenLimit` parameters:
+To run the CLI, use the following parameters:
 
 | Dataset Category | `--dataset` (Parameter) | `--limit` (Parameter) |
 | --- | --- | --- |
@@ -104,7 +104,7 @@ To ensure results match the reported metrics in the paper, use the following `se
 If you use EDEN in your research, please cite our work:
 
 ```bibtex
-@article{EDEN2025,
+@article{EDEN2026,
   title={EDEN: Multiscale Expected Density of Nucleotide Encoding for Enhanced DNA Sequence Classification with Hybrid Deep Learning},
   author={Zabihi, et al.},
   journal={},
