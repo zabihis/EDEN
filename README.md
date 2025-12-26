@@ -1,7 +1,7 @@
 
 ---
 
-# EDEN: Empirical Distribution Encoding Network
+# EDEN: Multiscale Expected Density of Nucleotide Encoding for Enhanced DNA Sequence Classification with Hybrid Deep Learning
 
 ## 🧬 Abstract
 
@@ -17,8 +17,8 @@
 
 The repository is modularized for academic reproducibility and clear separation of concerns:
 
-* **`models.py`**: Implementation of the `Hybrid_CNN` architecture (Dual-branch 1D/2D CNN).
-* **`utils.py`**: Core engine for **MSEDN Encoding**, data loading, and evaluation metrics.
+* **`models.py`**: Implementation of the `Hybrid_CNN` architecture (Dual-branch CNN).
+* **`utils.py`**: Core engine for **Multiscale EDN Encoding**, data loading, and evaluation metrics.
 * **`predict.py`**: Command-line interface (CLI) for performing inference on datasets.
 * **`datasets/`**: Genomic benchmark data in CSV format.
 * **`models/`**: Pretrained `.pth` weights for various genomic tasks.
