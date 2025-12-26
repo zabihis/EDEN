@@ -29,7 +29,7 @@ The repository is modularized for academic reproducibility and clear separation 
 
 ### 1. Requirements
 
-Install the necessary Python packages using pip:
+Install the necessary Python packages using conda/pip:
 
 ```bash
 pip install torch pandas numpy scikit-learn
