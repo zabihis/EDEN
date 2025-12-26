@@ -104,9 +104,9 @@ To run the CLI, use the following parameters:
 If you use EDEN in your research, please cite our work:
 
 ```bibtex
-@article{EDEN2026,
+@article{zabihi2026,
   title={EDEN: Multiscale Expected Density of Nucleotide Encoding for Enhanced DNA Sequence Classification with Hybrid Deep Learning},
-  author={Zabihi, et al.},
+  author={Zabihi, Saman and Hashemi, Sattar and Mansoori, Eghbal},
   journal={},
   year={2026},
   url={https://github.com/zabihis/EDEN}
