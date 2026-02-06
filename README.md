@@ -103,13 +103,19 @@ To run the CLI, use the following parameters:
 
 If you use EDEN in your research, please cite our work:
 
-```bibtex
-@article{zabihi2026,
-  title={EDEN: Multiscale Expected Density of Nucleotide Encoding for Enhanced DNA Sequence Classification with Hybrid Deep Learning},
-  author={Zabihi, Saman and Hashemi, Sattar and Mansoori, Eghbal},
-  journal={},
+```
+Zabihi, S., Hashemi, S. & Mansoori, E. EDEN: multiscale expected density of nucleotide encoding for enhanced DNA sequence classification with hybrid deep learning. BMC Bioinformatics 27, 40 (2026). https://doi.org/10.1186/s12859-026-06367-6
+
+**or BibTeX entry:**
+@article{zabihi2026eden,
+  title={EDEN: multiscale expected density of nucleotide encoding for enhanced DNA sequence classification with hybrid deep learning},
+  author={Zabihi, S. and Hashemi, S. and Mansoori, E.},
+  journal={BMC Bioinformatics},
+  volume={27},
+  number={40},
   year={2026},
-  url={https://github.com/zabihis/EDEN}
+  publisher={BioMed Central},
+  doi={10.1186/s12859-026-06367-6}
 }
 
 ```
